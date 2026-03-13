@@ -37,6 +37,11 @@ pip install pandas streamlit plotly matplotlib scikit-learn
 ### 3️⃣ Run the dashboard
 streamlit run dashboard.py
 
+## 🌐 Live Dashboard
+Try the interactive dashboard here:
+
+https://ecommerce-sales-dashboard-msw4fhdkemnhp9uclbagxz.streamlit.app/
+
 ## 👩‍💻 Author
 Vaishnavi Bagal  
 Computer Science Engineering Student

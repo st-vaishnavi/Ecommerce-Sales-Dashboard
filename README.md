@@ -20,6 +20,18 @@ It also predicts future sales using Machine Learning and presents insights throu
 - Streamlit
 - Scikit-learn
 
+  ## 📂 Project Structure
+
+Ecommerce-Sales-Dashboard/
+│
+├── dashboard.py                # Streamlit dashboard application
+├── cleaned_sales_data.csv      # Processed dataset used for analysis
+├── dataset.xlsx                # Original dataset
+├── sales_analysis.ipynb        # Data analysis notebook
+├── sales_prediction_model.pkl  # Trained machine learning model
+├── requirements.txt            # Python libraries needed
+└── README.md                   # Project documentation
+
 ## 📊 Dashboard
 The dashboard allows users to:
 - Filter sales by country
@@ -41,6 +53,15 @@ streamlit run dashboard.py
 Try the interactive dashboard here:
 
 https://ecommerce-sales-dashboard-msw4fhdkemnhp9uclbagxz.streamlit.app/
+
+## 📊 Dashboard Overview
+![Dashboard Overview](dashboard_overview.png)
+
+## 📈 Sales Analysis and prediction
+![Sales Analysis](sales_analysis_prediction.png)
+
+## 🛍️ Product Insights
+![Product Insights](product_analysis.png)
 
 ## 👩‍💻 Author
 Vaishnavi Bagal  
